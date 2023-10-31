@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okuhlecharlieman&label=Profile%20views&color=0e75b6&style=flat" alt="okuhlecharlieman" /> </p>
 
-- 🔭 I’m currently working on a [Chat app using MERN](https://github.com/okuhlecharlieman/MERN-tailwind-real-time-chat-app)
+- 🔭 I’m currently working on a [Chat app using MERN](https://github.com/okuhlecharlieman/chat-app-frontend)
 
 - 🌱 I’m currently learning **Reactjs, Tailwind**
 
